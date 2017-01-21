@@ -2,8 +2,8 @@
 	"username": {
 		"password": "password",
 		"uid": "username",
-		"name": "Fake User",
-		"mail": "i@am.fake",
+		"fullname": "Fake User",
+		"email": "i@am.fake",
 		"type": "fake"
 	}
 }
